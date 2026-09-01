@@ -1,5 +1,7 @@
 # Writing Robot RL
 
+![Writing Robot](writingRobot.jpeg)
+
 Reinforcement Learning for 2-axis writing robot using recycled DVD stepper motors.
 
 ## Overview
